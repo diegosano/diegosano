@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, my name is Diego and I work as a junior PHP developer. I'm studying to be a full-stack Javascript developer.
+My name is Diego and I work as a junior PHP developer. I'm studying to be a full-stack Javascript developer.
 
 - 🌱 I’m currently learning ReactJS  | Typescript | Open Source
 - 🤔 I’m looking for help with career advices
